@@ -11,5 +11,7 @@ Run `server.py` </br>
 and </br>
 Run `client.py` </br>
 Address of the server will be displayed in the terminal </br>
-Put that address into server = 'address' in `client.py`</br>
+Put that address into `server = 'address'` in `client.py`</br>
+By this, clients get connected with server </br>
+On broadcasting any message from server, It can reach to every other clients</br>
 
